@@ -19,4 +19,4 @@ Sleep ❌\
 Wifi ❌\
 \
 
-![系统概览](https://github.com/starsnwind/EFI-HP-Laptop-14s-dp0xx-Hackintosh/blob/master/asset/sysinfo.jpg?raw=true)\
+![系统概览](https://github.com/starsnwind/EFI-HP-Laptop-14s-dp0xx-Hackintosh/blob/master/img/sysinfo.jpg?raw=true)\

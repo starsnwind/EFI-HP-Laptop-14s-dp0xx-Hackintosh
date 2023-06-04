@@ -10,8 +10,8 @@ SSD : WD Black SN750 ✅\
 RAM : 8 GB 2400 MHz DDR4✅\
 Battery Status ✅\
 Ethernet ✅\
-All USB ❌\
-Audio ❌\
+All USB ✅\
+Audio ✅\
 #######################################################\
 TouchScreen ❌\
 TouchPad ❌\

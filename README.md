@@ -2,7 +2,8 @@
 EFI HP Laptop 14s dp0xx Hackintosh Ryzen 5 3500u GPU Vega 8\
 Created By : 季乐天（CGR团长）
 
-OS Version  : macOS 11.3 (Big Sur)
+## 概况
+OS Version  : macOS 14 beta6 (Sonoma)
 
 CPU : AMD Ryzen 5 3500U（2.1GHz） ✅\
 IGPU : AMD Radeon Vega 8 (Working on VRAM 2GB) ✅\
@@ -12,11 +13,10 @@ Battery Status ✅\
 Ethernet ✅\
 All USB ✅\
 Audio ✅\
-#######################################################\
-TouchScreen ❌\
-TouchPad ❌\
-Sleep ❌\
-Wifi ❌\
+TouchScreen ✅\
+TouchPad ✅\
+Sleep ✅\
+Wifi ✅\
 \
-## 概况
-<img src="Resources/sysinfo.jpg">
+
+<!-- <img src="Resources/sysinfo.jpg"> -->
